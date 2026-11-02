@@ -1,0 +1,22 @@
+ body{
+   background-image: url(../img/IMG\ final.webp);
+   min-height: 100vh;
+    color: #5F6526;
+ }
+nav{background-color: #5F6526;
+    a{color: aliceblue;
+;
+    }
+}
+main{
+   background-color: #f8EDBF;
+   color: #5F6526;
+   font-size: medium;
+   padding: 5px;
+}
+footer{
+     a{
+        background-color: #5F6526;
+       color: aliceblue;
+        }
+}

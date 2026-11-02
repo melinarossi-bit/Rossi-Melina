@@ -1,0 +1,51 @@
+body{
+    background-color: #f8EDBF;
+     font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  }
+  .titulo{
+font-family: "Bodoni Moda", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+ .titulo{
+    font-size: x-large;
+}
+nav{
+    background-color:#5F6526
+}
+nav{background-color: #5F6526;
+    a{color: aliceblue;
+    }
+}
+footer{
+    a:hover{
+        background-color: #5F6526;
+        color: aliceblue;
+    }
+ background-color: aliceblue;
+ font-size: small;
+ a{color: #5F6526;
+    }
+     }
+     main{
+        flex: auto;
+     }
+     a{ 
+        display: inline-block;
+        text-decoration: none;
+            border: solid 3px;
+            border-radius:10px;
+            padding: 5px 5px;
+     }
+     a:hover{
+        background-color: aliceblue;
+        color: #5F6526;
+        scale: 1.2;
+     }
