@@ -1,22 +1,23 @@
  body{
    background-image: url(../img/IMG\ final.webp);
+   background-attachment: fixed;
    min-height: 100vh;
     color: #5F6526;
  }
 nav{background-color: #5F6526;
     a{color: aliceblue;
-;
     }
 }
 main{
    background-color: #f8EDBF;
-   color: #5F6526;
+   color: aliceblue;
    font-size: medium;
    padding: 5px;
-}
-footer{
-     a{
-        background-color: #5F6526;
-       color: aliceblue;
-        }
+   /* From https://css.glass */
+background: rgba(255, 255, 255, 0.45);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.3px);
+-webkit-backdrop-filter: blur(6.3px);
+border: 1px solid rgba(255, 255, 255, 0.26);
 }

@@ -16,10 +16,7 @@ font-family: "Bodoni Moda", serif;
 }
  .titulo{
     font-size: x-large;
-}
-nav{
-    background-color:#5F6526
-}
+} 
 nav{background-color: #5F6526;
     a{color: aliceblue;
     }
@@ -28,6 +25,7 @@ footer{
     a:hover{
         background-color: #5F6526;
         color: aliceblue;
+        scale: 1.2;
     }
  background-color: aliceblue;
  font-size: small;
