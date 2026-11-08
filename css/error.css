@@ -1,6 +1,6 @@
 body{
      background-image: url(../img/fondo.jpg);
-   background-attachment: fixed;
+     min-height: 100vh;
 }
 main {
       padding: 0px 50px;

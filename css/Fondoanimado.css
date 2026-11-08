@@ -1,0 +1,5 @@
+#your_css_selector_here {
+    background-color: hsla(88, 0%, 100%, 1);
+    background-image: radial-gradient(circle at 10% 50%, hsla(48, 80%, 86%, 1) 5.020080321285141%, transparent 92.83310625926558%), radial-gradient(circle at 15% 50%, hsla(65, 44%, 27%, 0.97) 5.020080321285141%, transparent 92.83310625926558%);
+    background-blend-mode: lighten, multiply;
+}
