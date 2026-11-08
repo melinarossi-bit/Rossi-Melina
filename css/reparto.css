@@ -19,3 +19,6 @@ padding: 30px 0px;
 main {
     flex: auto;
 }
+.titulo{
+    text-align: center;
+}
