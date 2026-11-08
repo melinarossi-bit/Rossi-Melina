@@ -1,4 +1,8 @@
- main {
+body{
+     background-image: url(../img/fondo.jpg);
+   background-attachment: fixed;
+}
+main {
       padding: 0px 50px;
       text-align: center;
      }
