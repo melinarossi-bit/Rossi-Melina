@@ -32,6 +32,23 @@
             <img class="Movimiento" src="../img/sobre.webp" width="10%" alt="Imagen sobre">
         </a>
         </article>
+
+        <form class="formulario" action="../confirmacion.html">
+    <label for="nombre">Ingrese su nombre</label>
+    <input required type="text" name="nombre" id="nombre">
+    <label>Ingrese su apellido
+         <input required ="text" name="apellido" id="apellido">
+    </label>
+    <label for="coreo">Ingrese su correo electronico</label>
+    <input required type="text" name="Correo electronico">
+
+    <select required name="Quiero recibir novedades" id="novedades">
+        <option value="" disabled selected>Quiero recibir novedades</option>
+    <option value="si">Si</option>
+    <option value="no">No</option>
+    </select>
+    <button type="submit">Enviar</button>
+</form>
         <article>
             <iframe class="scale-in-top" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3J4vzSVFEynIVM8nbbmQUc?utm_source=generator&theme=0&si=646678dd24a044ab" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </article>
